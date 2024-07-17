@@ -1,0 +1,20 @@
+2024-07-17 20:46:41,019 INFO Set uid to user 0 succeeded
+2024-07-17 20:46:41,027 INFO supervisord started with pid 78
+2024-07-17 20:46:42,034 INFO spawned: 'horizon' with pid 80
+2024-07-17 20:46:42,409 WARN exited: horizon (exit status 1; not expected)
+2024-07-17 20:46:43,415 INFO spawned: 'horizon' with pid 83
+2024-07-17 20:46:43,725 WARN exited: horizon (exit status 1; not expected)
+2024-07-17 20:46:45,731 INFO spawned: 'horizon' with pid 86
+2024-07-17 20:46:46,437 WARN exited: horizon (exit status 1; not expected)
+2024-07-17 20:46:49,446 INFO spawned: 'horizon' with pid 89
+2024-07-17 20:46:49,848 WARN exited: horizon (exit status 1; not expected)
+2024-07-17 20:46:50,849 INFO gave up: horizon entered FATAL state, too many start retries too quickly
+2024-07-17 21:01:20,593 INFO Set uid to user 0 succeeded
+2024-07-17 21:01:20,596 INFO supervisord started with pid 78
+2024-07-17 21:01:21,600 INFO spawned: 'horizon' with pid 80
+2024-07-17 21:01:21,909 WARN exited: horizon (exit status 1; not expected)
+2024-07-17 21:01:22,913 INFO spawned: 'horizon' with pid 83
+2024-07-17 21:01:23,202 WARN exited: horizon (exit status 1; not expected)
+2024-07-17 21:01:25,207 INFO spawned: 'horizon' with pid 86
+2024-07-17 21:01:25,494 WARN exited: horizon (exit status 1; not expected)
+2024-07-17 21:01:26,495 WARN received SIGTERM indicating exit request
